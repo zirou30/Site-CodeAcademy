@@ -1,5 +1,8 @@
 '''
 A game for those who make more point wins.
+Github: https://github.com/zirou30
+Twitter: @Z3rou
+Pastebin: http://pastebin.com/u/zirou
 '''
 
 score = {"a": 1, "c": 3, "b": 3, "e": 1, "d": 2, "g": 2,
