@@ -1,3 +1,10 @@
+'''
+The Battleship Game
+Github: https://github.com/zirou30
+Twitter: @Z3rou
+Pastebin: http://pastebin.com/u/zirou
+'''
+
 from random import randint
 
 board = []
